@@ -397,4 +397,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-MvcMovieContext-4b37fe4d-5a1a-49b0-ad6b-dee446977bc9.db
+*.db
