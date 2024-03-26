@@ -21,4 +21,8 @@ dotnet ef migrations add InitialCreate
 
 // update db
 dotnet ef database update
+
+// run with https profile
+dotnet run --no-build --launch-profile "https"
+
 ```
